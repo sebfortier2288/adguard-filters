@@ -7,3 +7,20 @@
 ||game.brawlstarsgame.com^
 ||api.brawlstarsgame.com^
 ||event.supercell.com^
+
+! --------------------------------------------------
+! Roblox
+! --------------------------------------------------
+||roblox.com^
+||www.roblox.com^
+||api.roblox.com^
+||auth.roblox.com^
+||login.roblox.com^
+||assetgame.roblox.com^
+||setup.roblox.com^
+||gamepersistence.roblox.com^
+||realtime.roblox.com^
+||rbxcdn.com^
+||rbxcdn.co^
+||ads.roblox.com^
+||metrics.roblox.com^
