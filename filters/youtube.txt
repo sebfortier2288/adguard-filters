@@ -1,0 +1,19 @@
+! --------------------------------------------------
+! YouTube
+! --------------------------------------------------
+||youtube.com^
+||www.youtube.com^
+||m.youtube.com^
+||youtube-ui.l.google.com^
+||ytimg.com^
+||ytimg.l.google.com^
+||youtu.be^
+||youtube.be^
+||googlevideo.com^
+||youtubei.googleapis.com^
+||yt3.ggpht.com^
+||yt4.ggpht.com^
+||youtubekids.com^
+||youtube-nocookie.com^
+||s.youtube.com^
+||video-stats.l.google.com^
